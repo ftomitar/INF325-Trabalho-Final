@@ -17,4 +17,4 @@ Estrutura de pastas:
 
 # Execução do banco de dados e queries
 
-  - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ftomitar/lab-mongodb/master?filepath=labs)
+  - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ftomitar/INF325-Trabalho-Final/master?filepath=notebooks)
