@@ -1,15 +1,20 @@
-# lab-mongodb
 
-A repository for launching laboratories.
+Estrutura de pastas:
 
-#### JupyterLab 
-  
-  - [![launch @ gke.mybinder.org][badge-jupyterlab-gke-mybinder-org]](https://gke.mybinder.org/v2/gh/thedatasociety/lab-mongodb/master?urlpath=lab)
+~~~
+├── README.md  <- arquivo apresentando o trabalho final
+│
+├── images     <- arquivos de imagens usadas no documento
+│
+└── notebooks  <- arquivos com os notebooks para a execução do banco e das queries
+~~~
 
-  - [![launch @ ovh.mybinder.org][badge-jupyterlab-ovh-mybinder-org]](https://ovh.mybinder.org/v2/gh/thedatasociety/lab-mongodb/master?urlpath=lab)
+# Aluno
+* `Felipe Iada Tomitar Vilar`
+* `Filipe Seidi Ishida Veronezi`
+* `Jeferson Luis Michelan`
+* `Juliana Fernandes`
 
-  - [![launch @ turing.mybinder.org][badge-jupyterlab-turing-mybinder-org]](https://turing.mybinder.org/v2/gh/thedatasociety/lab-mongodb/master?urlpath=lab)
+# Execução do banco de dados e queries
 
-  - [![launch @ gesis.org][badge-jupyterlab-gesis-org]](https://notebooks.gesis.org/binder/v2/gh/thedatasociety/lab-mongodb/master?urlpath=lab)
-
-  - [![launch @ pangeo.io][badge-jupyterlab-pangeo-io]](https://binder.pangeo.io/v2/gh/thedatasociety/lab-mongodb/master?urlpath=lab)
+  - [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ftomitar/lab-mongodb/master?filepath=labs)
