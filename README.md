@@ -11,7 +11,7 @@ Estrutura de pastas:
 └── resources  <- arquivo de database
 ~~~
 
-# Aluno
+# Alunos
 * `Felipe Iada Tomitar Vilar`
 * `Filipe Seidi Ishida Veronezi`
 * `Jeferson Luis Michelan`
