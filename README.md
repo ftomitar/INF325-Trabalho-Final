@@ -6,7 +6,7 @@ Estrutura de pastas:
 │
 ├── images     <- arquivos de imagens usadas no documento
 │
-├── notebooks  <- arquivo com o notebook usado para a execução do banco e das queries
+├── notebooks  <- arquivo com o notebook usado para a execução do banco e das queries e configurações do MongoDB
 │
 └── resources  <- arquivo de database
 ~~~
