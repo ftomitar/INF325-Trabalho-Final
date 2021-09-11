@@ -5,7 +5,6 @@ cd  ~/resources/ /adminMongo
 
 cp ~/resources/configs/adminMongo/app.json    config/
 cp ~/resources/configs/adminMongo/config.json config/
-# cp ~/resources/configs/adminMongo/app.js      ./
 
 
 npm start &

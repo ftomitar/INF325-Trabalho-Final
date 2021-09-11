@@ -7,4 +7,4 @@ nohup  ${MONGODB_HOME}/bin/mongod   --dbpath ${MONGODB_HOME}/data/db  &> ~/logs/
 sleep 10
 
 #Dataset - Equipe 7
-mongoimport --db places --collection equipe7 --file ~/resources/datasets/dataset-equipe7.json
+mongorestore -d equipe7 resources/datasets/equipe7
